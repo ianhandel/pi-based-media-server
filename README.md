@@ -20,3 +20,7 @@ https://forums.plex.tv/t/howto-use-plex-with-no-internet/383325
 # Or use readyDNLA
 
 https://pimylifeup.com/raspberrypi-minidlna/
+
+# Or use Jellyfin
+
+https://jellyfin.org/docs/general/administration/installing.html
