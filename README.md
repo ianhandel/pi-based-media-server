@@ -16,3 +16,7 @@ https://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-r
 ## Internet free access
 
 https://forums.plex.tv/t/howto-use-plex-with-no-internet/383325
+
+# Or use readyDNLA
+
+https://pimylifeup.com/raspberrypi-minidlna/
