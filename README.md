@@ -1,7 +1,7 @@
 # Setting up a pi based media server
 
 
-## Installing Plex
+# Installing Plex
 
 https://youtu.be/Hgy_YOQBdTw
 
